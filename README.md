@@ -80,11 +80,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/dotkom/autobank/pull/29) in [dotkom/autobank](https://github.com/dotkom/autobank)
-2. 💪 Opened PR [#29](https://github.com/dotkom/autobank/pull/29) in [dotkom/autobank](https://github.com/dotkom/autobank)
-3. 🎉 Merged PR [#27](https://github.com/dotkom/autobank/pull/27) in [dotkom/autobank](https://github.com/dotkom/autobank)
-4. 💪 Opened PR [#27](https://github.com/dotkom/autobank/pull/27) in [dotkom/autobank](https://github.com/dotkom/autobank)
-5. 🎉 Merged PR [#26](https://github.com/dotkom/autobank/pull/26) in [dotkom/autobank](https://github.com/dotkom/autobank)
+1. 🎉 Merged PR [#28](https://github.com/dotkom/autobank/pull/28) in [dotkom/autobank](https://github.com/dotkom/autobank)
+2. 🎉 Merged PR [#22](https://github.com/dotkom/autobank/pull/22) in [dotkom/autobank](https://github.com/dotkom/autobank)
+3. ❗️ Closed issue [#5](https://github.com/dotkom/autobank/issues/5) in [dotkom/autobank](https://github.com/dotkom/autobank)
+4. 🎉 Merged PR [#29](https://github.com/dotkom/autobank/pull/29) in [dotkom/autobank](https://github.com/dotkom/autobank)
+5. 💪 Opened PR [#29](https://github.com/dotkom/autobank/pull/29) in [dotkom/autobank](https://github.com/dotkom/autobank)
 <!--END_SECTION:activity-->
 
 </details>
